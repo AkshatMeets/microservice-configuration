@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: congif-default
 eureka:
   instance:
     prefer-ip-address: true
