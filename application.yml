@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CONFIGDEFAULT
+    name: congif-default
 eureka:
   instance:
     prefer-ip-address: true
